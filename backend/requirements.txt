@@ -1,5 +1,6 @@
 flask
-yfinance
+ yfinance
 twilio
 alpaca-trade-api
 pandas
+gunicorn
